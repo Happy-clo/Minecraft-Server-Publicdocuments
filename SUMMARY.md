@@ -8,6 +8,7 @@
 * [服务器信息](fu-wu-qi-xin-xi.md)
 * [服务器规则](fu-wu-qi-gui-ze.md)
 * [服务器游玩教程](fu-wu-qi-chang-yong-zhi-ling/README.md)
+  * [Minecraft 多人服务器入门指南](fu-wu-qi-chang-yong-zhi-ling/minecraft-duo-ren-fu-wu-qi-ru-men-zhi-nan.md)
   * [服务器常用指令](fu-wu-qi-chang-yong-zhi-ling/fu-wu-qi-chang-yong-zhi-ling.md)
   * [如何添加服务器IP](fu-wu-qi-chang-yong-zhi-ling/ru-he-tian-jia-fu-wu-qi-ip.md)
   * [客户端优化指南](fu-wu-qi-chang-yong-zhi-ling/ke-hu-duan-you-hua-zhi-nan.md)

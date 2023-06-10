@@ -10,8 +10,8 @@
 
 ### 2.尝试清除cookie和网站数据
 
-(1 [`在 Microsoft Edge 中删除 Cookie`](zai-microsoft-edge-zhong-shan-chu-cookie.md)
+{% embed url="https://docs.moyidumc.top/wiki/readme/zai-microsoft-edge-zhong-shan-chu-cookie" %}
 
-(2 [`在 Firefox 中删除 Cookie`](zai-firefox-zhong-shan-chu-cookie.md)
+{% embed url="https://docs.moyidumc.top/wiki/readme/zai-firefox-zhong-shan-chu-cookie" %}
 
-(3 [`在 Chrome 中删除 Cookie`](zai-chrome-zhong-shan-chu-cookie.md)
+{% embed url="https://docs.moyidumc.top/wiki/readme/zai-chrome-zhong-shan-chu-cookie" %}
