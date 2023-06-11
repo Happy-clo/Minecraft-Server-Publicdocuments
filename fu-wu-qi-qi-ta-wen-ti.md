@@ -1,6 +1,5 @@
 ---
 coverY: 0
-layout: editorial
 ---
 
 # 服务器其他问题
