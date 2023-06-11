@@ -28,4 +28,16 @@
 * `/jobs points`：查看你的职业积分。
 * `/jobs archive`：查看你的职业档案。
 
+### 指令选项
+
+以下是一些常用命令的选项：
+
+* `/jobs browse --page <number>`：浏览职业列表的指定页码。
+* `/jobs join <job> --confirm`：确认加入一个职业。
+* `/jobs leave <job> --confirm`：确认离开一个职业。
+* `/jobs info <job> --page <number>`：查看指定职业的任务列表的特定页码。
+* `/jobs top --page <number>`：查看排行榜的指定页码。
+* `/jobs leaderboards <job> --page <number>`：查看指定职业排行榜的特定页码。
+* `/jobs toggle <job> --on/--off`：开启或关闭某个职业的任务提示。
+
 希望这个指南能对你使用 职业功能 有所帮助，享受你的 Minecraft 职业生涯吧！
