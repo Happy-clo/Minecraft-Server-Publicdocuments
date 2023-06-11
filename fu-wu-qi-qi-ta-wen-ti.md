@@ -1,5 +1,6 @@
 ---
 coverY: 0
+layout: editorial
 ---
 
 # 服务器其他问题
@@ -8,7 +9,7 @@ coverY: 0
 
 #### 1.常见问题
 
-1. 本群服务器版本是JAVA版，兼容版本`1.12.x-1.19.4`，请不要用错客户端。
+1. 本群服务器版本是JAVA版，兼容版本`1.12.x-1.20`，请不要用错客户端。
 2. 你的ID可能还有汉字等字符，请使用由大小写英文字母及数字和\_组成的ID。
 3. 服务器不支持皮肤站登录，若使用皮肤站登录会显示“无效的个人信息公钥签名”。服务器仅支持离线和正版登陆，请知晓。
 4. 本服务器增加了安全策略，第一次进入可能会失败是因为服务器正在分析你的连接，多进几次就可以了。
@@ -19,22 +20,35 @@ coverY: 0
 * `java.lang.NoSuchMethodError: sun.security.util.ManifestEntryVerifier.<init>(Ljava/util/jar/Manifest;)V` 的解决办法:
   * java8: 回退到8u320版本或更早版本
   * java11: 回退到11.0.13或更早版本
-* java下载:
-  * \[全]OpenJdk: https://adoptium.net/temurin/releases/
-  * OpenJdk清华镜像: https://mirrors.tuna.tsinghua.edu.cn/Adoptium/
-  * \[全]OracleJdk: https://www.oracle.com/java/technologies/downloads/archive/
-  * \[17]DragonWell: https://github.com/alibaba/dragonwell17/releases/latest
-  * \[11]DragonWell: https://github.com/alibaba/dragonwell11/releases/latest
-  * \[8]DragonWell: https://github.com/alibaba/dragonwell8/releases/latest
-* DragonWell是OpenJdk的分支, 由阿里巴巴维护, 性能较好。
+
+### OpenJDK
+
+OpenJDK是开源的Java开发工具包，由全球Java社区维护和开发。
+
+* 全部版本：[OpenJDK](https://adoptium.net/temurin/releases/)
+* 清华大学镜像站：[OpenJDK - 清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/)
+
+### Oracle JDK
+
+Oracle JDK是Oracle公司的Java开发工具包，与OpenJDK基本相同，但包含一些商业特性。
+
+* 全部版本：[Oracle JDK](https://www.oracle.com/java/technologies/downloads/archive/)
+
+### DragonWell JDK
+
+DragonWell JDK是阿里巴巴维护的OpenJDK的分支，对性能进行了优化。
+
+* Java 17：[DragonWell 17](https://github.com/alibaba/dragonwell17/releases/latest)
+* Java 11：[DragonWell 11](https://github.com/alibaba/dragonwell11/releases/latest)
+* Java 8：[DragonWell 8](https://github.com/alibaba/dragonwell8/releases/latest)
 
 #### 3.检查服务器地址是否正确
 
 * 服务器地址：
   * 服务器IP：`moyidumc.top`
   * 直连IP：`43.248.187.210:26666`
-* 核心版本：1.19.3
-* 兼容版本：1.12.x-1.19.4
+* 核心版本：`1.19.4`
+* 兼容版本：`1.12.x-1.20`
 * 正版验证：否
 
 ### 二、游戏在哪里下载
