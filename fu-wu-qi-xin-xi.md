@@ -7,17 +7,14 @@ coverY: 0
 ## 服务器连接信息
 
 {% hint style="info" %}
-1.由于阿里云域名解析的原因，当您尝试连接 `moyidumc.top` 时，可能会出现"<mark style="color:red;">**无法连接到服务器**</mark>"的现象，这时请使用直连IP `43.248.187.210:26666`
+1.您可以使用1.12.x-1.19.4版本的Minecraft客户端进入本服务器，<mark style="color:purple;">**请注意不要使用Forge客户端进入，有可能会碰到一些兼容性问题！**</mark>
 
-2.您可以使用1.12.x-1.19.4版本的Minecraft客户端进入本服务器，<mark style="color:purple;">**请注意不要使用Forge客户端进入，有可能会碰到一些兼容性问题！**</mark>
-
-**在**[**`这里`**](https://modrinth.com/modpack/moon-luseban/versions)**下载1.19.4生电优化整合包 - 作者明月庄主**
+**在**[**`这里`**](https://modrinth.com/modpack/moon-luseban/versions)**下载1.20.1生电优化整合包 - 作者明月庄主**
 {% endhint %}
 
-* 服务器IP：`moyidumc.top`
-* 直连IP：`43.248.187.210:26666`
-* 核心版本：`1.19.3`
-* 兼容版本：`1.12.x-1.20`
+* 服务器IP：`mcfun.us`
+* 核心版本：`1.20.1`
+* 兼容版本：`1.12.x-1.20.1`
 * 正版验证：否
 
 ## 服务器世界设置
