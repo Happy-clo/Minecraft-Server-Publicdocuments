@@ -35,13 +35,9 @@ coverY: 0
 
 ### 邮箱📬：
 
-* happy: `1958678890@qq.com`
+* happy: `admin@mcfun.us`
 * Canobe: `xingtongliu2@gmail.com`
 
 ### QQ🐧：
 
 * happy: `1958678890`
-
-## 服务器QQ群
-
-群号：`559568783`
